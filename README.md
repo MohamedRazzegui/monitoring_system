@@ -19,4 +19,4 @@ We prepared the base ground for future researchers by exploring the fields of ev
 ## Requirements (Input)
 Seperate:
 1. Conversatioin audio
-2. Relative textual conversation.
+2. Relative textual conversation (follow the given excel format)
