@@ -15,7 +15,7 @@ from pathlib import Path
 # Instantiate the model
 model = Model.from_pretrained(
     "pyannote/segmentation",
-    use_auth_token="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"
+    use_auth_token="**********************************" #type your own token
 )
 
 # Function to calculate power of a signal
